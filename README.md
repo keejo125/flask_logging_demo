@@ -12,13 +12,13 @@ logging在一个工厂模式的flask中使用的demo。实现通过flask自带�
  - 启动LogServer。
 
    ```python
-   python LogServer.py
+   python3 LogServer.py
    ```
 
  - 启动flask
 
    ```python
-   python manager runserver
+   python3 manager.py runserver
    ```
 
 - 使用flask的logger记录日志：

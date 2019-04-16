@@ -1,8 +1,9 @@
+certifi==2018.11.29
 Click==7.0
 Flask==1.0.2
 Flask-Script==2.0.6
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.10.1
 MarkupSafe==1.1.0
 python-logstash==0.4.6
 Werkzeug==0.14.1
